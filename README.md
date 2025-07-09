@@ -20,7 +20,7 @@ This project demonstrates state representation, search algorithms, and benchmark
 
 ## 📒 **Colab Demo**
 Run interactively on Google Colab:  
-▶ [Open in Colab](https://colab.research.google.com/drive/1KxYNkEdRbJ66paxJnGs-DGyOosW_nvwn?usp=sharing)
+▶ [Open in Colab](https://colab.research.google.com/drive/1bZAq_ZDx-ky7OGPG4cCL6TxUNvrm69KU?usp=sharing)
 
 ---
 
